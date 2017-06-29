@@ -24,5 +24,3 @@ To deploy to HPE Helion Stackato:
     stackato push -n
 
 You can view the application at the 'Application Deployed URL'.
-
-TESTTEST
