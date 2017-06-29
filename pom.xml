@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.mybatis</groupId>
-	<artifactId>petstore</artifactId>
+	<artifactId>jpetstore</artifactId>
 	<packaging>war</packaging>
 	<version>6.0.1</version>
 	<name>JPetStore Demo 6</name>
@@ -72,7 +72,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>petstore</finalName>
+		<finalName>jpetstore</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
