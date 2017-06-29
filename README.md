@@ -3,7 +3,7 @@ Java Pet Store Sample
 
 This is a Java sample using the Spring framework. This application uses a java
 buildpack.
-TESTTETETE
+
 
 Building the Application
 ------------------------
